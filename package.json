@@ -1,0 +1,35 @@
+{
+  "name": "shj-code-master",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@shjjs/visual-ui": "1.0.12",
+    "lodash": "^4.17.21",
+    "nanoid": "^4.0.2",
+    "sass": "^1.79.1",
+    "vue": "^3.4.3",
+    "vue-router": "^4.0.15",
+    "animate.css": "^4.1.1",
+    "pinia": "^2.0.13",
+    "axios": "^0.27.2",
+    "hls.js": "^1.4.13",
+    "swiper": "^11.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.17.5",
+    "@types/lodash": "^4.14.192",
+    "@vitejs/plugin-vue": "^4.5.2",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8",
+    "vite-plugin-dts": "^1.4.1",
+    "vite-plugin-eslint": "^1.8.1",
+    "vite-plugin-libcss": "^1.1.0",
+    "@vueuse/core": "^9.1.0"
+  }
+}
