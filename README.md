@@ -21,3 +21,5 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 
 4、启动命令 pnpm dev
 
+![项目演示](%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-23%20130542.png)
+![项目演示](.png)
